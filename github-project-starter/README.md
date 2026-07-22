@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Production-Ready FastAPI Microservice Starter
 
 [![CI Pipeline](https://github.com/your-username/fastapi-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/your-username/fastapi-starter/actions)
@@ -138,6 +137,3 @@ make test
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
-=======
-# github-project-starter
->>>>>>> 40f098c592fcd106bf6b4c903af932fab30e97ec
